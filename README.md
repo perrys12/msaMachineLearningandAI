@@ -7,7 +7,7 @@ The most important environment setup is using numpy and pandas. NumPy is used fo
 
 Step by Step Instruction: 
 1. The first step to do is load in the dataset. 
-2. We then mov exploring the data where I use df.shape and other commands to find missing data and make the data full without any imbalances 
-3. Scaling the distribution of the dataset so it can be ready to be read.
+2. We then move to exploring the data where I use df.shape and other commands to find any imbalances of data and to find any missing data 
+3. I then start to scale the distribution of the dataset so it can be ready to be read and used for data manipulation.
 4. We then start to build the machine learning model 
 - 
